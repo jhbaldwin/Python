@@ -1,5 +1,5 @@
 # J.Baldwin
-# This program is a version of Weight on Planets with the exception of displaying all of the planets it will as
+# This program is designed to tell the user how much they would weigh on each of the planets in our solar system.
 
 print("Welcome to Weight on Planet!\nTo begin please select the planet you want to calculate your weight\nand then insert your weight in pounds.")
 
